@@ -136,6 +136,7 @@ namespace: plant_anatomy
 def: "A cultured plant cell from which the entire plant cell wall has been removed." [POC:curators]
 comment: The cell wall is generally removed using polysaccharide-degrading enzymes such as cellulase, pectinase and /or xylanase. The cultured plant cell may be in suspension culture or from callus culture on solid media.
 subset: CL
+synonym: "plan protoplast ABCD" BROAD []
 synonym: "protoplast (broad)" BROAD []
 synonym: "protoplasto cultivado (Spanish, exact)" EXACT Spanish [POC:Maria_Alejandra_Gandolfo]
 synonym: "植物プロトプラスト (Japanese, exact)" EXACT Japanese [NIG:Yukiko_Yamazaki]
